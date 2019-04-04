@@ -53,7 +53,6 @@ Can you find an example where the chart or other data visualization is misrepres
     - Great when dependent variable is a categorical variable
 
 3. How to interpret the results of a logistic regression model?
-    - 
 4. Why can’t linear regression be used in place of logistic regression for binary classification?
 5. What is survival analysis and when would you use it? How is it different from other regression techniques?
 6. What is qunatile regression and When would you use it?
