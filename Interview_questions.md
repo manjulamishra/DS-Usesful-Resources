@@ -118,10 +118,15 @@ blog post about different database technologies!
 1. What was your biggest achievement in your last job?
 2. Do you prefer working in a team or alone? Why?
 3. What are two or three specific applications of data science that get you most excited?
-4. What are some key differences between Python and Scala?
-5. What is a method for determining if statistics published in an article are either wrong or presented to support the author’s point of view?
-6. Explain what resampling methods are and why they are useful. What are their limitations?
-7. In late 2016, a new recruit at Facebook designed a new feature to improve click-through rates on ads for political ads. They deployed their feature on a representative sample of users from across the country. The feature did not improve rates significantly in the general population, but it DID improve click-throughs for two groups: Female Texan college graduates between the ages of 30 and 35 and Male Floridian high-school graduates between 18 and 25.  The recruit’s manager was reviewing this data and had to decide whether to invest more time into testing/deploying it further.  What is the first question the manager should ask?
+4. What are some key differences between Python and Scala?  
+**A: Typing, run time, ease of learning, memory consumption, concurrency, and community support are, or can be, significantly different between these 2 languages.**  
+5. What is a method for determining if statistics published in an article are either wrong or presented to support the author’s point of view?  
+**A: Using the author(‘s)(s’) data, attempt to reproduce their analysis.**  
+6. Explain what resampling methods are and why they are useful. What are their limitations?  
+**A: Resampling methods enable estimation of sample descriptive statistics, model validation, and significance testing. Essentially, these methods help decrease uncertainties about how sample data may be used to make inferences about the population of interest. They also increase confidence in model selection. But these methods don't perfectly eliminate uncertainty.
+Examples of resampling methods are cross validation, and bootstrap resampling.**  
+7. In late 2016, a new recruit at Facebook designed a new feature to improve click-through rates on ads for political ads. They deployed their feature on a representative sample of users from across the country. The feature did not improve rates significantly in the general population, but it DID improve click-throughs for two groups: Female Texan college graduates between the ages of 30 and 35 and Male Floridian high-school graduates between 18 and 25.  The recruit’s manager was reviewing this data and had to decide whether to invest more time into testing/deploying it further.  What is the first question the manager should ask?  
+**A: Is this feature/technique ethical?**  
 8. What would make you quit a job you just started?
 
 ### Week 16:
