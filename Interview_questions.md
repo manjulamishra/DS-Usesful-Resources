@@ -85,13 +85,22 @@ blog post about different database technologies!
 ### Week 16:
 
 1. Good morning! What do you think of our new offices here?
+* Nice natural light!
 2. What is the difference between a deep and a shallow copy?
+* A shallow copy is a reference to the object, a deep copy is a new copied object 
 3. What the heck are *args and **kwargs and when are they used?
+*  \*arg passes a non-keywork list like variable number of arguments while \*\*kwargs passes a keyword dictionary like variable number of arguements
 4. How do data scientists work with backend engineers?
+* ETL, provide the data including any data science columns in a easily consumable way
 5. Give an example of a time you would use a decision tree?
+* Predicting whether weather, calender, and time of day make it a likely day for Tennis.
 6. How many golf balls would fit into a Boeing 747?
+* [Kailey Smith post](https://lambdaschoolstudents.slack.com/archives/G9PFT4341/p1553008935561100)
 7. What was the most difficult task you’ve faced in your last job and how did you overcome it?
+* VA Insurance at UST-Austin, coverting duplex XEROX metadata to IBM AFP single page documents. Complications were form segments that used to be on each side of the page had to be inserted in the single page and useless XEROX alignment 
+documents that looked just like live forms.
 8. If your manager asked you to do some task with data that you believed was unethical, how would you respond?
+* Refuse to do it without a bonus or raise.
 
 ### Week 17:
 1. What do you want to do by joining this position?
