@@ -83,12 +83,24 @@ blog post about different database technologies!
 ### week 13:
 
 1. What about our company excites you the most? (_assume it is a company in a field you are *NOT* excited about_)
+-  I'm most excited about the resources the company has at its disposal. Working in data science, a lot of the more powerful 
+   tools are in AWS, and being able to use these tools on a regular basis is an exciting prospect.
 2. What is pipelining and how might you build one in Python?
+-  Pipelining is streamlining two or more functions into one pipeline. I would build one using the pipeline package
+   that sklearn provides and use something like a categorical encoder function followed by a linear regression function.
 3. What is the inverse of the squish function?
+-  The squish function is also known as the sigmoid function. It's inverse is the logit function.
 4. You are on a boat and throw a suitcase overboard. Does the water level increase?
+-  This is a tricky question, and as a data science needs more information. Was the boat in the water? Is the water a river,
+   ocean, etc.?
 5. What would you do if a teammate changed your work without consulting you first?
+-  I'd first be a little surprised, but I'd ask my teammate the reason for changing my work. If it is a good reason I would
+   understand, and if not I'd ask my teammate to consult me first next time.
 6. Whats your current biggest DS-related weakness and what are your plans on it?
+-  My current biggest DS-related weakness is neural networks. I don't have enough experience using them yet, so I plan on
+   practicing with MNIST-like datasets.
 7. You don’t have a Phd. or a degree in a requisite field.  Why should we hire you?
+-  I think my portoflio should speak to what I've learned; I think it is comparable to a degree in the field. I have learned      and practiced concepts just as though if I had gotten a degree in data science.
 
 ### Week 14:
 
