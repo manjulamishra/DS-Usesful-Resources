@@ -60,6 +60,51 @@ Unethical behavior might arise at any point - from data collection to data inter
 7. How do you keep up with economic and
   business news? How about data science news?
   
+### Week 9:
+1. In Python, what is the difference between a list and a tuple?
+   - List is typed as [1,2,3]
+   - Tuple is typed as (1,2,3)
+   - Lists have mutable nature i.e., list can be changed or modified after its creation according to needs whereas
+     tuples have immutable nature i.e., tuple can’t be changed or modified after its creation.
+   - Lists have variable length, tuples have fixed length.
+2. What is logistic regression? Provide an example for when it might be used.
+   - Logistic Regression is a Machine Learning classification algorithm that is used to predict the probability of
+     a categorical dependent variable. 
+   - In logistic regression, the dependent variable is a binary variable that contains data coded as 1 
+     (yes, success, etc.) or 0 (no, failure, etc.).
+   - An example of when to use would be bank loan applications and whether they were accepted or denied.
+   - Other examples would be whenever the dependent variable or label is a yes/no.
+3. During analysis, how do you treat missing values?
+   - Very dependent on how filling or dropping these values/rows/columns would affect your model.
+   - It's important to understand the data before modifying it.
+   - Use of pandas.isna().sum(), pandas.describe(), pandas.info() to understand the data.
+   - Use of pandas.fillna() to fill NaNs with a certain value.
+   - Use of pandas.dropna() to drop any row with NaN in any column.
+   - Use of pandas.drop(column=[]) to drop any columns with NaN.
+4. What is multicollinearity and how you can overcome it?
+   - Multicollinearity is a state of very high intercorrelations or inter-associations among the independent variables.
+   - High levels of Collinearity in a dataset is bad because it increases standard errors and therefore makes estimates
+     of our coefficients less precise.
+   - We test for high levels of collinearity by calculating the dataset's Variance Inflation Factor or VIF.
+   - Use the correlation matrix to check levels of correlation between independent variables.
+   - As a rule of thumb any variable that has a VIF > 10 needs to be dealt with (probably dropped from your model). 
+   - If you see a VIF greater than 10 it is likely that two x variables are highly correlated.
+5. Can you explain why you changed career paths?
+   - Desire to learn.
+   - Desire to take on more responsibility.
+   - Desire to gain a new skill or grow a current skill.
+   - Talk about why Data Science was interesting to you.
+   - Talk specifically about the job for which you are currently interviewing.
+   - Show excitement about the opportunity to learn some new skills and adapt to change.
+   - Make sure you take time to describe your accomplishments, and all of the good that you’ve done for
+     your current employer.
+   - DON'T talk negatively about your previous job(s). Look ahead.
+6. What are your salary requirements?
+   - Do some research to understand the market salary range for the position, size of the company you’re
+     interviewing with, location, and your experience level.
+   - You will also want to think a bit about best case scenarios (what salary offer would make you say yes
+     on the spot) and worst case scenarios (what salary offer would you walk away from).
+  
 ### Week 8:
 1. What is a logistic function? What is the range of values of a logistic function?
     ### f(z) = 1/(1+e -z )
