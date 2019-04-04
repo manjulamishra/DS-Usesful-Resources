@@ -1,16 +1,16 @@
-### Week1: 
+### Week 1.1: 
 
 1. What data would you love to acquire if there were no limitations?
 2. What would you do with that data (projects, startups, apps)?
 3. Bring something for “Show and Tell” (screenshare) that got you interested in this data or shows why it is interesting to you.
 
-### Week1:
+### Week 1.2:
 
 1. Why are you at Lambda School?
 2. What did you do before Lambda School?
 3. What is something interesting about you?
 
-### Week2:
+### Week 2:
 
 1. What is the difference between quantitative and qualitative data? What are a few examples of each?
 2. What are numpy and pandas and what are they used for?
@@ -18,7 +18,7 @@
 4. What is data science to you?
 5. What is the most confusing topic from week one of class?
 
-### Week3:
+### Week 3:
 Biases in data visualization
 
 There are numerous types/forms of biases, such as technical, language bias, biased data narrative, replication bias. Good article here: https://alshams.github.io/responsibledata/bias-in-data-viz/
@@ -27,7 +27,7 @@ Can you find an example where the chart or other data visualization is misrepres
 2. What are apophenia and confirmation bias and how do they affect the creation of visualizations?
 3. At what point could a misleading chart become unethical?
 
-### Week4:
+### Week 4:
 1. What is the difference between descriptive statistics
   and inferential statistics?
 2. How would you explain a 95% confidence interval
@@ -41,7 +41,7 @@ Can you find an example where the chart or other data visualization is misrepres
 7. How do you keep up with economic and
   business news? How about data science news?
   
-### week11:
+### week 11:
 1. How are you today?
 2. How is object-oriented programming different from functional programming? What are some advantages or disadvantages of each?
 3. What is the relationship between modules, packages, dependencies, and namespaces in Python?
@@ -50,7 +50,7 @@ Can you find an example where the chart or other data visualization is misrepres
 6.  What is the alignment problem in artificial intelligence?
 7.  We offer great flexibility in our employees’ scheduling? What would your ideal work week look like?
 
-### Week12:
+### Week 12:
 1. So far in this sprint you've used SQLite, PostgreSQL, and MongoDB. For each of these, consider the following questions:
 
 - What was easy about using this technology?
@@ -61,7 +61,7 @@ Write a summary in the style of a possible blog post, and bring the
 questions/discussion to class. Bonus - later on, follow up and complete a real
 blog post about different database technologies!
 
-### week13:
+### week 13:
 
 1. What about our company excites you the most? (_assume it is a company in a field you are *NOT* excited about_)
 2. What is pipelining and how might you build one in Python?
@@ -71,7 +71,7 @@ blog post about different database technologies!
 6. Whats your current biggest DS-related weakness and what are your plans on it?
 7. You don’t have a Phd. or a degree in a requisite field.  Why should we hire you?
 
-### Week14:
+### Week 14:
 
 1. What was your biggest achievement in your last job?
 2. Do you prefer working in a team or alone? Why?
@@ -82,7 +82,7 @@ blog post about different database technologies!
 7. In late 2016, a new recruit at Facebook designed a new feature to improve click-through rates on ads for political ads. They deployed their feature on a representative sample of users from across the country. The feature did not improve rates significantly in the general population, but it DID improve click-throughs for two groups: Female Texan college graduates between the ages of 30 and 35 and Male Floridian high-school graduates between 18 and 25.  The recruit’s manager was reviewing this data and had to decide whether to invest more time into testing/deploying it further.  What is the first question the manager should ask?
 8. What would make you quit a job you just started?
 
-### Week16:
+### Week 16:
 
 1. Good morning! What do you think of our new offices here?
 2. What is the difference between a deep and a shallow copy?
@@ -92,3 +92,12 @@ blog post about different database technologies!
 6. How many golf balls would fit into a Boeing 747?
 7. What was the most difficult task you’ve faced in your last job and how did you overcome it?
 8. If your manager asked you to do some task with data that you believed was unethical, how would you respond?
+
+### Week 17:
+1. What do you want to do by joining this position?
+2. What are the ML concepts covered at Lambda School?
+3. What is a lambda function in Python?
+4. What is ROC AUC?
+5. What are sampling techniques and which ones have you used?
+6. Why is Python interpreted?
+7. What are the disadvantages of an interpreted language?
