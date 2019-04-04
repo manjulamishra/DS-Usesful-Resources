@@ -24,7 +24,7 @@ Biases in data visualization
 There are numerous types/forms of biases, such as technical, language bias, biased data narrative, replication bias. Good article here: https://alshams.github.io/responsibledata/bias-in-data-viz/
 Can you find an example where the chart or other data visualization is misrepresenting the actual research?
  - Truncated y-axis (Used often in political visuals)
- ![Truncated y-axis](DS-Usesful-Resources/Truncated_y_axis.png)
+ ![Truncated y-axis]('Truncated_y_axis.png')
  - Omitting Data
 1. How might a visualization appear different to viewers from different cultures?
 2. What are apophenia and confirmation bias and how do they affect the creation of visualizations?
