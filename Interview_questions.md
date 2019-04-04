@@ -126,9 +126,66 @@ blog post about different database technologies!
 
 ### Week 17:
 1. What do you want to do by joining this position?
+  - Make a good impact to the company bottom line
+  - Grow myself in my technical role
 2. What are the ML concepts covered at Lambda School?
+  - Statistics: Descriptive, Predictive
+  - Data Wrangling:
+    - Handle Null values
+    - Encode category variables
+    - Noramalize numerical data
+    - Split data into test/validate/train sets
+  - Visualizations using libraries, and Storytelling:
+    - Matplotlib
+    - Seaborn
+  - Machine Learning: 
+    - Linear/Logistic Regression
+    - Decision Trees
+    - Random Forests
+    - Gradient Boosting (XGBoost)
+    - Ridge Regression
+    - Survival Analysis
+    - Quantile Regression
+    - Model Validation
+    - Hyperparameter optimization
+  - Data Engineering
+    - Python Modules, Packages, Environments: pipenv
+    - Containers and reproducible builds: Docker
+    - SQL: PostgreSQL
+    - MongoDB
+    - AWS: Sagemaker notebooks, Numba, Dask
+    - Scala and Spark
+  - Web application development with Flask
+  - Natural Language Processing
+    - Bag of words
+    - Document classification
+    - Word embeddings
+  - Neural Networks
+    - Backpropagation
+    - Keras
+    - Hyperparameter tuning and Model Evaluation
+    - Deep Learning
 3. What is a lambda function in Python?
+  - The Lambda function is a short bit of code that is unnamed.
+  - These functions are also called anonymous fun
+  - They're used only within a code block. Reuse is not the point here.
+  - Usually used for specific small computations.
 4. What is ROC AUC?
+  - ROC AUC stands for "Receiver Operator Characteristic Area Under Curve" score.
+  - It is used to compare the True Positive Rate versus the False Positive Rate of a binary classifier.
+  - A classifier that gives random predictions will give an ROC AUC score of 0.5
+  - The best classifier will give a score of 1.0
 5. What are sampling techniques and which ones have you used?
+  - Sampling is used to:
+    - Decrease the number of computations you need to do, so you can try different models in a short period of time.
+      - Here you can use the Pnadas Dataframe sample() function to sample a fraction of the data.
+    - To balance imbalanced classes
+      - imbalanced-learn library is useful here. You can use SMOTE/ADASYN
+    - Create train-validate-test datasets
+      - Use function train_test_split()
 6. Why is Python interpreted?
+  - An interpreted language allows for quick test-changecode-test loops. This is very important for machine learning. The compile step is not needed, thus we don't need to test-changecode-compile-test. This saves one step from each iteration.
+  - Compiled languages usually need your help to tell the compiler what type a variable is.  This is not needed for interpreted languages
 7. What are the disadvantages of an interpreted language?
+  - Since there is an interpreter that will always need to run before running the code, it is slower than compiled languages.
+  - Some languages may allow improper computations that will get you into trouble without giving any error. This becomes a big problem because most of your time then is spent in debugging.
