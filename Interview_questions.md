@@ -28,18 +28,49 @@ Can you find an example where the chart or other data visualization is misrepres
 3. At what point could a misleading chart become unethical?
 
 ### Week 4:
-1. What is the difference between descriptive statistics
-  and inferential statistics?
-2. How would you explain a 95% confidence interval
-  to an executive with no statistics background?
+1. What is the difference between descriptive statistics and inferential statistics?
+  * Descriptive statistics uses the data to provide descriptions of the population. 
+  * Inferential statistics makes inferences and predictions about a population based on a sample of data.
+2. How would you explain a 95% confidence interval to an executive with no statistics background?
+  *  If we take 100 different samples and compute a 95% confidence interval for each, then approximately 95 of the 100 confidence intervals will contain the true mean value (μ)
 3. What is a t-test?
-4. What are some different types of distributions
-  and what are their qualities?
-5. What are null and alternative hypotheses?
-  Give an example.
+  * t-test is a type of inferential statistic.
+  * Used to determine if there is a significant difference between the means of two groups.
+4. What are some different types of distributions and what are their qualities?
+  * *Bernoulli Distribution* has only two possible outcomes, namely 1 (success) and 0 (failure), and a single trial. 
+  * *Uniform Distribution* - Roll a fair die, the outcomes are 1 to 6. 
+    * Probabilities are equally likely = the basis of a uniform distribution. 
+    * All the n number of possible outcomes of a uniform distribution are equally likely.
+  * *Binomial Distribution* - distribution where only two outcomes are possible.
+    * Such as success or failure, gain or loss, win or lose.
+    * AND the probability of success and failure is same for all the trials.
+  * *Normal Distribution* represents the behavior of most of the situations in the universe.
+    * The large sum of (small) random variables often turns out to be normally distributed.
+    * Any distribution is known as Normal distribution if it has the following characteristics:
+      * The mean, median and mode of the distribution coincide.
+      * The curve of the distribution is bell-shaped and symmetrical about the line x=μ.
+      * The total area under the curve is 1.
+      * Exactly half of the values are to the left and right of the center.
+  * *Poisson Distribution* is applicable in situations where events occur at random points of time and space.
+    * Our interest lies only in the number of occurrences of the event.
+    * A distribution is called Poisson distribution when the following assumptions are valid:
+      * Successfull events must not influence outcomes of another event.
+      * Probablity of success over short interval must be the same as P of success over long interval.
+      * P of success in an interval approaches zero as the interval becomes smaller. 
+
+5. What are null and alternative hypotheses? Give an example.
+  * Null hypothesis sets the stage for an experiment by giving us something to compare to.
+  * Question: "Does Sugar influence Hyperactivity?"
+  * An example of a null hypothesis: "Hyperactivity is *unrelated* to eating sugar"
+  * Another question: "How does cadmium in soil effect my plants?" 
+  * Another example:  "Plant growth rate is *unaffected* by the presence of cadmium in the soil."
 6. When is more data better? When is it worse?
-7. How do you keep up with economic and
-  business news? How about data science news?
+  * More data is better when it contributes to the signal. 
+  * More data is worse when it contributes to noise. 
+7. How do you keep up with economic and business news? How about data science news?
+  * I focus on economic and business news that is relevant. 
+  * I am selective of who I follow on twitter and which blogs I follow.
+  * Curating good sources means I am supplied with quality information continously on those platforms. 
   
 ### week 11:
 1. How are you today?
