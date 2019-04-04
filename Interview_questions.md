@@ -41,6 +41,25 @@ Can you find an example where the chart or other data visualization is misrepres
 7. How do you keep up with economic and
   business news? How about data science news?
   
+### Week 8:
+1. What is a logistic function? What is the range of values of a logistic function?
+    ### f(z) = 1/(1+e -z )
+    ### The values of a logistic function range from 0 to 1. The values of Z vary from -infinity to +infinity.
+    
+2. Why is logistic regression very popular?
+    ### Helpful in classfication problems
+    ### It can handle binary as well as multi-class classification problems
+    ### It output the probabilities of obervations falling in different classes
+    ### Great when dependent variable is a categorical variable
+
+3. How to interpret the results of a logistic regression model?
+    ### 
+4. Why can’t linear regression be used in place of logistic regression for binary classification?
+5. What is survival analysis and when would you use it? How is it different from other regression techniques?
+6. What is qunatile regression and When would you use it?
+7. In what circumstances Ridge regression might be an ideal choice? 
+
+  
 ### week 11:
 1. How are you today?
 2. How is object-oriented programming different from functional programming? What are some advantages or disadvantages of each?
