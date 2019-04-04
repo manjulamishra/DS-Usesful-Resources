@@ -92,8 +92,18 @@ Unethical behavior might arise at any point - from data collection to data inter
 1. So far in this sprint you've used SQLite, PostgreSQL, and MongoDB. For each of these, consider the following questions:
 
 - What was easy about using this technology?
+  * SQLite is easy to create, populate, and query databases locally either through a SQLite browser
+  or in Python using the 'sqlite3' library.
+  * PostgreSQL has the perks of SQLite but with the ability to handle much larger applications performing ACID compliant transactions.
+    SQL query language shared among SQLite and PostgreSQL and other RDMS.
+  * MongoDB's ease it's based on its flexibility as a "NOSQL" database program using JSON that allows for various features to inserted or ommited for each observation.
+    Also MongoDB allows to work with huge databases that relational database management systems are not able to handle.
 - What was hard about using this technology?
+  * Learning how to properly use Python and its 'sqlite3' library to run SQL commands on a database.
+  * Knowing how to give Postgre authentication to access databases.
+  * Making a switch from SQL commands to commands in JSON-like format.
 - What more would you like to learn about it?
+  * Integrating these systems to a variety of Internet facing applications and using them to create robust data warehousing.
 
 Write a summary in the style of a possible blog post, and bring the
 questions/discussion to class. Bonus - later on, follow up and complete a real
