@@ -61,20 +61,15 @@ Can you find an example where the chart or other data visualization is misrepres
 - Covariate
 
 ### The Equation for a Line
-A common equation for a line is:
+2. What is the goal of linear regression?
+- A common equation for a line is y = mx + b, where m is the slope of the line and b is the y-intercept. 
+- Linear Regression seeks to **estimate** the slope and intercept values that describe a line that best fits the data points.
 
-\begin{align}
-y = mx + b
-\end{align}
-
-Where $m$ is the slope of the line and $b$ is the y-intercept. 
-Linear Regression seeks to **estimate** the slope and intercept values that describe a line that best fits the data points.
-
-2. What is residual error?
+3. What is residual error?
 - The residual error is the distance between points in our dataset and our regression line.
 
-3. What is the most common way to minimize residual error?
-- The most common method of estimating our $\beta$ parameters (slope and intercept) is what's known as "Ordinary Least Squares" (OLS). (There are different methods of arriving at a line of best fit). OLS estimates the parameters that minimize the squared distance between each point in our dataset and our line of best fit. 
+4. What is the most common way to minimize residual error?
+- The most common method of estimating the slope and intercept is what's known as "Ordinary Least Squares" (OLS). (There are different methods of arriving at a line of best fit). OLS estimates the parameters that minimize the squared distance between each point in our dataset and our line of best fit. 
 
 \begin{align}
 SSE = \sum(y_i - \hat{y})^2
