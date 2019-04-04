@@ -73,6 +73,40 @@ Can you find an example where the chart or other data visualization is misrepres
 * Try making predictions within an area that the interviewer cares about.
 * Focus on optimistic predictions.
   
+### Week 7:
+1.  What is linear regression?
+- Linear Regression is a statistical model that seeks to describe the relationship between some y variable and one or more x variables.
+
+### Synonyms for "y variable"
+- Dependent Variable
+- Response Variable
+- Outcome Variable 
+- Predicted Variable
+- Measured Variable
+- Explained Variable
+- Label
+
+### Synonyms for "x variable(s)"
+- Indepent Variable
+- Explanatory Variable
+- Regressor
+- Covariate
+
+### The Equation for a Line
+2. What is the goal of linear regression?
+- A common equation for a line is y = mx + b, where m is the slope of the line and b is the y-intercept. 
+- Linear Regression seeks to **estimate** the slope and intercept values that describe a line that best fits the data points.
+
+3. What is residual error?
+- The residual error is the distance between points in our dataset and our regression line.
+
+4. What is the most common way to minimize residual error?
+- The most common method of estimating the slope and intercept is what's known as "Ordinary Least Squares" (OLS). (There are different methods of arriving at a line of best fit). OLS estimates the parameters that minimize the squared distance between each point in our dataset and our line of best fit. 
+
+\begin{align}
+SSE = \sum(y_i - \hat{y})^2
+\end{align}
+
 ### week 11:
 1. How are you today?
 2. How is object-oriented programming different from functional programming? What are some advantages or disadvantages of each?
