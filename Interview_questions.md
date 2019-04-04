@@ -81,7 +81,7 @@ blog post about different database technologies!
 -  My current biggest DS-related weakness is neural networks. I don't have enough experience using them yet, so I plan on
    practicing with MNIST-like datasets.
 7. You don’t have a Phd. or a degree in a requisite field.  Why should we hire you?
--  I think my portoflio should speak to what I've learned, and I think it is comparable to a degree in the field. I am driven    to succeed in this field, and my time at Lambda is proof that I am willing to do what it takes to get a job in this new        field.
+-  I think my portoflio should speak to what I've learned; I think it is comparable to a degree in the field. I have learned      and practiced concepts just as though if I had gotten a degree in data science.
 
 ### Week 14:
 
