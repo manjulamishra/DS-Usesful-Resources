@@ -22,12 +22,31 @@
 Biases in data visualization
 
 There are numerous types/forms of biases, such as technical, language bias, biased data narrative, replication bias. Good article here: https://alshams.github.io/responsibledata/bias-in-data-viz/
-Can you find an example where the chart or other data visualization is misrepresenting the actual research? 
+Can you find an example where the chart or other data visualization is misrepresenting the actual research?
+[Visual Examples](https://cogentlegal.com/2014/04/graphics-go-beyond-advocacy-to-misleading/) 
+- Truncated y-axis (Used often in political visuals)
+ ![Truncated y-axis]('Truncated_y_axis.png')
+ - Omitting Data
+ - Causation Correlation (Correlation doesn’t imply causation1. 
 1. How might a visualization appear different to viewers from different cultures?
+ - Metaphors are interpreted differently depending on the language
+ - Symbols used pictorially don't always convey what you **assume** they do.
+ - Position has a natural ordering but shape does not.
+ - Images of currency varies greatly accross cultures.
+ - [Cultural Difference in visualizations](https://news.nationalgeographic.com/2015/06/2015626-datapoints-visual-cultures/)
 2. What are apophenia and confirmation bias and how do they affect the creation of visualizations?
+> **Apophenia** (/æpoʊˈfiːniə/) is the tendency to perceive connections and meaning between unrelated things.
+> **Confirmation bias** is the tendency to search for, interpret, favor, and recall information in a way that confirms preexisting 
+> beliefs or hypotheses
 3. At what point could a misleading chart become unethical?
-
-### Week 4:
+Unethical behavior might arise at any point - from data collection to data interpretation
+ - Data collection can be made inherently biased by posing the wrong questions
+ - Not including data outliers in their report and analysis
+ - Numbers don't lie but their interpretation and representation can be misleading.
+ - A survey might not reflect true public opinion because it is not statistically significant. Many surveys do not publish this along  
+   with their poll.
+ 
+ ### Week 4:
 1. What is the difference between descriptive statistics
   and inferential statistics?
 2. How would you explain a 95% confidence interval
