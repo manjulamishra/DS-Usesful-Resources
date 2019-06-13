@@ -6,3 +6,5 @@ https://programmingwithmosh.com/python/python-3-cheat-sheet/
 
 #### Python Exercise with solutions
 https://pynative.com/python-exercises-with-solutions/
+
+#### Useful Basics about Dictionaries in Python
