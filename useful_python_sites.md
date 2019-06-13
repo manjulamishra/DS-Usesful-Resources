@@ -8,3 +8,4 @@ https://programmingwithmosh.com/python/python-3-cheat-sheet/
 https://pynative.com/python-exercises-with-solutions/
 
 #### Useful Basics about Dictionaries in Python
+https://developer.rhino3d.com/guides/rhinopython/python-dictionaries/
